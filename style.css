@@ -2,11 +2,14 @@
     margin-bottom: 100px;
 }
 .orange-bg{
-    background-color: #fceae8;
+    background-color: #fcede8;
     border-radius: 10px;
 }
 .carousel-item{
     padding: 20px 40px;
+}
+.card {
+    background-color: aquamarine;
 }
 .price{
     color: #FF136F;
@@ -30,7 +33,7 @@
     background-color: orchid;
 }
 .cat3{
-    background-color: blue;
+    background-color:   orange;
 }
 .categories h1{
     color: white;
